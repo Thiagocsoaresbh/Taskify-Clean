@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Taskify Clean
+
+Taskify é um aplicativo de lista de tarefas que permite aos usuários gerenciar suas tarefas de forma eficiente, com recursos de sugestão inteligente, organização por prioridade e feedback para melhoria contínua.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
